@@ -20,3 +20,5 @@ end
 
 
 puts "morning"
+
+puts "追加したよ"
