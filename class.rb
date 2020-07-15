@@ -2,6 +2,8 @@ class Car
   COST = 5000
   REGION = "okinawa"
   @@count = 0
+
+
   def initialize(name)
     @name = name
     @@count += 1

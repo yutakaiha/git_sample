@@ -1,4 +1,9 @@
 # puts "人生逆転サロン"
+
+# text = $stdin.read
+# p text
+
+p ARGV[0]
 #
 # puts "hello world"
 #
