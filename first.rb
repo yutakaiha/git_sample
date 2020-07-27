@@ -1,0 +1,1 @@
+puts "rebase-iコマンドの確認"
