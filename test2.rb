@@ -6,3 +6,4 @@ puts "remoteで編集したよ"
 
 
 puts "コンフリクト"
+puts "コンフリクト２"
